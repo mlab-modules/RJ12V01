@@ -1,0 +1,14 @@
+description: Module with RJ12 connector, which is used primarily for connecting sensors.
+github_branch: RJ12V01A
+github_description: Module with RJ12 connector, which is used primarily for connecting
+  sensors.
+github_repo: RJ12V01
+github_url: https://github.com/mlab-modules/RJ12V01
+homepage: false
+images:
+- doc/img/RJ12V01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: RJ12V01
+updated: '2023-09-17T11:42:11.922410+00:00'
