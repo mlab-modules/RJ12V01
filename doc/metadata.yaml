@@ -6,9 +6,18 @@ github_repo: RJ12V01
 github_url: https://github.com/mlab-modules/RJ12V01
 homepage: false
 images:
+- doc/gen/img/RJ12V01-bottom.png
+- doc/gen/img/RJ12V01-top.png
 - doc/img/RJ12V01A_QRcode.png
+- doc/gen/RJ12V01-schematic.svg
+- doc/gen/img/RJ12V01-top.svg
+- doc/gen/img/RJ12V01-bottom.svg
+- hw/cam_profi/assembly/RJ12V01-assembly_page_01.svg
+- hw/cam_profi/assembly/RJ12V01-assembly_page_02.svg
 mark: 50
+mod_ibom: hw/cam_profi/RJ12V01-ibom.html
+mod_scheme: doc/gen/RJ12V01-schematic.pdf
 status: 0
 tags: []
 title: RJ12V01
-updated: '2024-07-06T18:43:00.013842+00:00'
+updated: '2024-07-06T18:45:04.924451+00:00'
