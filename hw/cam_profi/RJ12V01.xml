@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/RJ12V01.kicad_sch</source>
+    <date>Sat Jul  6 18:44:23 2024</date>
+    <tool>Eeschema 7.0.11+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>RJ12V01A</title>
+        <company>Mlab www.mlab.cz</company>
+        <rev>REV</rev>
+        <date>%F</date>
+        <source>RJ12V01.kicad_sch</source>
+        <comment number="1" value="VERSION"/>
+        <comment number="2" value="Module with RJ12 connector."/>
+        <comment number="3" value="nickname &lt;email@example.com&gt;"/>
+        <comment number="4" value="BSD"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="RJ12V01-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005820c904</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SP1001-04XTG</value>
+      <footprint>Mlab_IO:SOT-553</footprint>
+      <libsource lib="RJ12V01-rescue" part="D_4xZENER" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000585bd82d</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>SP1001-04XTG</value>
+      <footprint>Mlab_IO:SOT-553</footprint>
+      <libsource lib="RJ12V01-rescue" part="D_4xZENER" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000585be39b</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000583c91a7</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000583c966a</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000583c9698</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000583c96f5</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>JUMP_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000583c9729</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>JUMP_2X2</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x02</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP_2X2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000585ac7ab</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>JUMP2_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP2_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000585a7e98</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>RJ12GLP-AMP</value>
+      <footprint>Mlab_CON:RJ12GLP-AMP(RJ12)</footprint>
+      <libsource lib="RJ12V01-rescue" part="RJ12" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000585a32fc</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>RJ12GLP-AMP</value>
+      <footprint>Mlab_CON:RJ12GLP-AMP(RJ12)</footprint>
+      <libsource lib="RJ12V01-rescue" part="RJ12" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000585a63e4</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>JUMP2_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP2_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000585a7e33</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>JUMP2_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP2_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000585a7f9d</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>JUMP2_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP2_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000585a7ffe</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>JUMP2_2x1</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP2_2x1" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000585a805e</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>JUMP_4X2</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
+      <libsource lib="RJ12V01-rescue" part="JUMP_4X2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000586a30b1</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="RJ12V01-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7549</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="RJ12V01-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7628</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="RJ12V01-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7646</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="RJ12V01-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7665</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="RJ12V01-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000058231adb</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="RJ12V01-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RJ12V01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000583caefb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="RJ12V01-rescue" part="C">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RJ12V01-rescue" part="D_4xZENER">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_4xZENER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RJ12V01-rescue" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="RJ12V01-rescue" part="JUMP2_2x1">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP2_2x1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RJ12V01-rescue" part="JUMP_2X2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+        <pin num="3" name="4" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RJ12V01-rescue" part="JUMP_2x1">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_2x1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RJ12V01-rescue" part="JUMP_4X2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JUMP_4X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="2" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="4" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="5" type="passive"/>
+        <pin num="7" name="8" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RJ12V01-rescue" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RJ12V01-rescue" part="RJ12">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">RJ12</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="SHIELD_1" type="passive"/>
+        <pin num="8" name="SHIELD_2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="RJ12V01-rescue">
+      <uri>/github/workspace/hw/sch_pcb/RJ12V01-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/1">
+      <node ref="D2" pin="5" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="4" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J8" pin="1" pintype="passive"/>
+      <node ref="J9" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/2">
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J8" pin="2" pintype="passive"/>
+      <node ref="J9" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/3">
+      <node ref="D2" pin="4" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J8" pin="3" pintype="passive"/>
+      <node ref="J9" pin="3" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/5">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="D3" pin="4" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J8" pin="5" pintype="passive"/>
+      <node ref="J9" pin="5" pintype="passive"/>
+    </net>
+    <net code="5" name="/6">
+      <node ref="D3" pin="3" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J8" pin="6" pintype="passive"/>
+      <node ref="J9" pin="6" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="D3" pin="2" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="2" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J14" pin="3" pinfunction="4" pintype="passive"/>
+      <node ref="J14" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J14" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J14" pin="6" pinfunction="5" pintype="passive"/>
+      <node ref="J14" pin="7" pinfunction="8" pintype="passive"/>
+      <node ref="J14" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+    </net>
+    <net code="7" name="VCC">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D2" pin="3" pintype="passive"/>
+      <node ref="J13" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="1" pintype="passive"/>
+      <node ref="J8" pin="4" pintype="passive"/>
+      <node ref="J9" pin="4" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="unconnected-(D3-Pad1)">
+      <node ref="D3" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="unconnected-(D3-Pad5)">
+      <node ref="D3" pin="5" pintype="passive"/>
+    </net>
+    <net code="10" name="unconnected-(J8-SHIELD_1-Pad7)">
+      <node ref="J8" pin="7" pinfunction="SHIELD_1" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(J8-SHIELD_2-Pad8)">
+      <node ref="J8" pin="8" pinfunction="SHIELD_2" pintype="passive"/>
+    </net>
+    <net code="12" name="unconnected-(J9-SHIELD_1-Pad7)">
+      <node ref="J9" pin="7" pinfunction="SHIELD_1" pintype="passive"/>
+    </net>
+    <net code="13" name="unconnected-(J9-SHIELD_2-Pad8)">
+      <node ref="J9" pin="8" pinfunction="SHIELD_2" pintype="passive"/>
+    </net>
+    <net code="14" name="unconnected-(J12-Pad1)">
+      <node ref="J12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="15" name="unconnected-(J13-Pad1)">
+      <node ref="J13" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>

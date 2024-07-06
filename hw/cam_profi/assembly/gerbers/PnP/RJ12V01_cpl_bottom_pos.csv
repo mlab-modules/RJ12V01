@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C4","10uF","SMD-0805",21.7805,21.3360,0.0000,bottom
+"D2","SP1001-04XTG","SOT-553",26.4236,13.5230,90.0000,bottom
+"D3","SP1001-04XTG","SOT-553",24.1300,13.4620,90.0000,bottom
+"R3","10k","SMD-0805",17.5260,19.3040,0.0000,bottom
+"R5","10k","SMD-0805",20.8280,19.3040,180.0000,bottom

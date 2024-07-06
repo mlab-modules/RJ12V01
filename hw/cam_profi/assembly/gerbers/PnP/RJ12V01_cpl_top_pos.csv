@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","JUMP_2x1","Straight_2x01",13.9700,25.4000,90.0000,top
+"J2","JUMP_2x1","Straight_2x01",16.5100,25.4000,90.0000,top
+"J3","JUMP_2x1","Straight_2x01",19.0500,25.4000,90.0000,top
+"J4","JUMP_2x1","Straight_2x01",21.5900,25.4000,90.0000,top
+"J5","JUMP_2x1","Straight_2x01",24.1300,25.4000,90.0000,top
+"J6","JUMP_2X2","Straight_2x02",35.5600,25.4000,-90.0000,top
+"J7","JUMP2_2x1","Straight_2x01",12.7000,21.5900,0.0000,top
+"J8","RJ12GLP-AMP","RJ12GLP-AMP(RJ12)",32.5120,7.8740,90.0000,top
+"J9","RJ12GLP-AMP","RJ12GLP-AMP(RJ12)",17.2720,7.8740,90.0000,top
+"J10","JUMP2_2x1","Straight_2x01",45.7200,19.0500,180.0000,top
+"J11","JUMP2_2x1","Straight_2x01",45.7200,16.5100,180.0000,top
+"J12","JUMP2_2x1","Straight_2x01",45.7200,13.9700,180.0000,top
+"J13","JUMP2_2x1","Straight_2x01",45.7200,11.4300,180.0000,top
+"J14","JUMP_4X2","Straight_2x04",5.0800,15.2400,0.0000,top
+"M1","HOLE","MountingHole_3mm",5.0800,25.4000,0.0000,top
+"M2","HOLE","MountingHole_3mm",45.7200,25.4000,0.0000,top
+"M3","HOLE","MountingHole_3mm",45.7200,5.0800,0.0000,top
+"M4","HOLE","MountingHole_3mm",5.0800,5.0800,0.0000,top
